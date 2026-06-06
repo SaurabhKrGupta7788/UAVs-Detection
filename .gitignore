@@ -1,0 +1,10 @@
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.zip
+
+runs/
+__pycache__/
+.ipynb_checkpoints/
